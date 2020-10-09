@@ -135,7 +135,11 @@ class Footer extends Component {
     return (
       <div className="footer">
         In{" "}
-        <a href="https://twitter.com/BabaCugs" target="_blank">
+        <a
+          href="https://twitter.com/BabaCugs"
+          target="_blank"
+          rel="noopener noreferrer"
+        >
           Baba
         </a>{" "}
         We Trust
